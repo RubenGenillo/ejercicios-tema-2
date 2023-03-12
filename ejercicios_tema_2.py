@@ -1,5 +1,3 @@
-from math import sqrt
-
 class punto():
     
     def __init__(self, x=0, y=0):
